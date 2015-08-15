@@ -1,0 +1,9 @@
+#
+# Parameters to pass to granola-connect
+#
+
+# By default, run as a daemon by using -D
+granolaconnect_args="-D"
+
+# Directory containing the granola-connect executable
+gc_dir=/opt/miserware/granolaconnect
